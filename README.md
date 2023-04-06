@@ -9,6 +9,7 @@ NPM package: <https://www.npmjs.com/package/insomnia-plugin-codeceptjs-codegen>
 ![Screenshot](./screenshots/prefix.png)
 - Install and reload plugins
 
+![Screenshot](./screenshots/install.png)
 ![Screenshot](./screenshots/installAndReload.png)
 
 - This will export the generated files to `~/Desktop` 
