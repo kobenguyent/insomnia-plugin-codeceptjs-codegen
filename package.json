@@ -1,0 +1,31 @@
+{
+    "name": "insomnia-plugin-codeceptjs-codegen",
+    "version": "1.0.0",
+    "description": "Generate CodeceptJS snippets",
+    "license": "MIT",
+    "main": "./src/plugin.js",
+    "author": "kobenguyent",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kobenguyent/insomnia-plugin-codeceptjs-codegen"
+    },
+    "insomnia": {
+        "name": "codeceptjs-codegen",
+        "description": "Generate CodeceptJS snippets"
+    },
+    "files": [
+        "src/*",
+        "README.md",
+        "screenshots/*",
+        "codeceptjs/*"
+    ],
+    "release": {
+        "branches": [
+            "main"
+        ]
+    },
+    "bugs": {
+        "url": "https://github.com/kobenguyent/insomnia-plugin-codeceptjs-codegen/issues"
+    },
+    "homepage": "https://github.com/kobenguyent/insomnia-plugin-codeceptjs-codegenr#readme"
+}
