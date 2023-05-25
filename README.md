@@ -6,8 +6,8 @@ Simple insomnia plugin to export code for every request that names match the pre
 NPM package: <https://www.npmjs.com/package/insomnia-plugin-codeceptjs-codegen>
 
 ## Usage
-- Give a prefix "CodeGen-" for every request you want to export
-- 
+- Give a prefix for every request you want to export, by default "codeceptjs-"
+
 ![Screenshot](./screenshots/prefix.png)
 - Install and reload plugins
 
